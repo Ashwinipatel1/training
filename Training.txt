@@ -1,0 +1,78 @@
+Full stack web development:
+end to end development of an application
+
+front end
+back end 
+database
+
+Front end:
+
+user interface(UI) where users can see and interact with the web application
+client-side
+job roles in front end technologies
+-used to create website
+-used to create structured content on the websites,designs and layouts
+
+technologies used:
+html
+css
+javascript
+react js
+
+1) HTML-Hyper text markup lannguage
+
+Hyper Text: A text containing Multiple links(Hyper Links)--(anchor tag <a> <a/>)
+Markup language: Specific set of tags by using these we can create Structure content
+-- It is used to create structure content on the website(images)
+
+2)CSS-Cascading style Sheets:
+
+--it is used to make the websites in a attractive and animative way
+--it is used to add styles to the website
+    (font,color,margins, shape, size) 
+
+Github: a place where we store our projects for future use 
+https://github.com/Ashwinipatel1
+
+--How to push code into the git:
+ commands:
+1. git init (to initialize the git repo in local folder)
+2. git status (to check the status of the git)
+3. git add demo.txt   (filename) (to add untracked files to tracked files)
+4. git status
+5. git commit -m "Hi"  (to add tracked files with message to local repo)
+6. git remote add origin https://github.com/Ashwinipatel1/training.git
+7. git push -u origin master
+
+sign in with code --copy code --open link --paste code --continue 
+
+
+
+Javascript:
+sending data from front end to back end is the purpose of javascript.
+--it is a scripting language.
+--High level ,loosely or weakly typed, lightweight and scripting language 
+
+javascript variables - 3
+- var (var a=10)   --var can be re-initialized , redeclared
+ 
+-let (let user="Ash")  -- re initialized, not redeclared
+- const (const dob=2004)
+console.log()
+document.writeln()  - print on UI
+ applications: webpages,mobiles  apps, smartwatch, gaming, server side app, database 
+
+Data types:
+
+1. Primitive: single value
+                    -default
+                    -string, number, Boolean, undefined, null
+2. Non-primitive: multiple values
+                             -user defined
+                             - functions, arrays, objects
+
+
+
+
+
+

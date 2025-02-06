@@ -1,0 +1,23 @@
+Promise- it is an object which represents eventual completion or failure 
+
+states of promise(3):
+    pending: still ongoing
+    fulfilled: successfully completed
+    rejected: failure
+Syntax: let p=new Promise((resolve,reject)=>{});
+for handling the promise 
+
+
+
+DOM- Document object model
+Dom is a web api used to manipulate the HTML content
+dom is used to add , remove 
+
+modules: 
+
+take array of objects which  each object contains emp id, emp name, emp company, emp salary,emp address where emp address is again an object which contains emp city, emp area.
+
+
+modules::
+
+Modules are like import/export
