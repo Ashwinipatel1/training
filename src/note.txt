@@ -1,0 +1,14 @@
+node modules:
+this folder stores all the third party libraries
+public : stores all the static files such as images, videos, html files
+
+
+index.js is must in src.
+name also cannot be changed
+
+JSX:
+JSX is case sensitive 
+Every tag should have closing tag
+
+
+
